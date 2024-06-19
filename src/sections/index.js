@@ -6,7 +6,6 @@ import SpecialOffer from './SpecialOffer';
 import PopularProducts from './PopularProducts';
 import Subscribe from './Subscribe';
 import SuperQuality from './SuperQuality';
-import Nav from './Nav';
 
 export {
     Hero,
@@ -17,5 +16,4 @@ export {
     PopularProducts,
     Subscribe,
     SuperQuality,
-    Nav
 }
